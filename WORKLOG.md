@@ -1,9 +1,7 @@
 # Work log — Nov 8, 2026
 
 ## What I did today
-- Worked through a healthcare CTI case study out of curiosity: a provider
-  drowning in SIEM alerts while phishing, credential theft and early
-  ransomware signs were happening underneath.
+- Worked through a healthcare CTI case study: a provider drowning in SIEM alerts while phishing, credential theft and early ransomware signs were happening underneath.
 - Wrote the report: Executive Summary, Introduction, the five sections
   above, Conclusion, References (13, APA 7th), plus supporting tables
   and an indicators appendix.

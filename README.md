@@ -1,7 +1,6 @@
 # Cyber Threat Intelligence — Healthcare Case Study
 
-A personal project I did because I was curious about how cyber threat
-intelligence actually works in a real organisation, not just in theory.
+A practical project exploring how cyber threat intelligence works in a real organisation, not just in theory.
 
 ## What this is
 A 1,945-word intelligence report on a medium healthcare provider whose
